@@ -1,4 +1,4 @@
-# Visual Question Answering (VQA) Web App
+# Visual Question Answering (VQA) 
 
 A web-based mini-project that enables users to upload an image and ask questions about it. The app responds with an answer using a pre-trained **BLIP VQA model**, combining computer vision and natural language processing for interactive image understanding.
 
